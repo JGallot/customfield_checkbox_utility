@@ -6,7 +6,7 @@ Redmine::Plugin.register :customfield_checkbox_utility do
   name 'Customfield Checkbox Utility plugin'
   author 'preciousplum'
   description 'This plugin is to improve the usability for Custom Fields of "User" and "List" Format. '
-  version '0.0.3'
+  version '0.0.4'
   url 'https://github.com/preciousplum/customfield_checkbox_utility'
   author_url 'https://github.com/preciousplum/'
   requires_redmine :version_or_higher => '5.0'
