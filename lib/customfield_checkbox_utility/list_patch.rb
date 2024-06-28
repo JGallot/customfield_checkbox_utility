@@ -10,7 +10,6 @@ module CustomfieldCheckboxUtility
     end
     
     module InstanceMethods
-
       def check_box_edit_support(view, tag_name, options)
         view.content_tag('a',
           view.content_tag('span',

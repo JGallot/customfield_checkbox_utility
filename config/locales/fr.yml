@@ -1,0 +1,9 @@
+# French strings go here for Rails i18n
+fr:
+  label_show_all: Tout montrer
+  label_show_checked: Montrer ce qui est coché
+  label_check_all: Tout cocher
+  label_uncheck_all: Tout décocher
+  label_filter: Filtrer
+  label_check: Cocher
+  label_uncheck: Décocher
