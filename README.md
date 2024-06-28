@@ -5,7 +5,10 @@ This plugin is to improve the usability for Custom Fields of "User" and "List" F
 This plugin is enabled on Custom Fields that "Multiple values" and "checkboxes" Display are set.
 
 This plugin was created to improve the usability of multi assignees functionality with custom_users_as_assignees plugin.
-https://github.com/preciousplum/custom_users_as_assignees
+
+https://github.com/JGallot/custom_users_as_assignees
+
+Original repository : https://github.com/preciousplum/custom_users_as_assignees
 
 ## Installation
 
@@ -14,7 +17,7 @@ https://github.com/preciousplum/custom_users_as_assignees
     `git clone` to `plugins/customfield_checkbox_utility` on your Redmine path.
 
         $ cd {RAILS_ROOT}/plugins
-        $ git clone https://github.com/preciousplum/customfield_checkbox_utility
+        $ git clone https://github.com/JGallot/customfield_checkbox_utility
 
 2. Restart Redmine.
 
@@ -22,8 +25,11 @@ https://github.com/preciousplum/custom_users_as_assignees
     *) Database Migration is **not** required.
 
 ## Compatibility
-This plugin version is compatible with Redmine 3.4.* or later in principle.  
-However, this plugin has been tested on Redmine 4.2.5 only currently.
+__Version 0.4__ :
+Comptatible Redmine 5.0.x
+Redmine 5.1.x not tested
+__Version 0.3__ :
+Compatible with Redmine 3.4.* /4.x  
 
 ## Screen Image
 "Full width layout" setting is enabled on Custom Fields setting of "User" and "List" Format.
